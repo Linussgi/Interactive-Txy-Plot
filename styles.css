@@ -1,0 +1,32 @@
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  }
+
+#chart-container {
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#coords-display {
+	width: auto;
+	height: 50px;
+	margin-top: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#leverarm {
+	width: auto;
+	height: 50px;
+	margin-top: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#chart-heading {
+    text-align: center;
+  }
